@@ -2,8 +2,9 @@ let btn=document.getElementById('btn');
 let par1=document.createElement('p');
 let par2=document.createElement('p');
 
-document.body.prepend(par1);
 document.body.prepend(par2);
+document.body.prepend(par1);
+
 
 
 
